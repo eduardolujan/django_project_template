@@ -1,0 +1,5 @@
+*.pyc
+*.egg-info
+django_project_template/settings/local.py
+django_project_template/settings/local/*
+docs/_build
