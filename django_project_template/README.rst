@@ -6,6 +6,16 @@ django_project_template
 Quickstart
 ----------
 
+To git
+
+touch README.md
+git init
+git add README.md
+git commit -m "comentario"
+git remote add origin https://github.com/LuchoCastillo/Repositorio.git
+git push -u origin master
+
+
 To bootstrap the project::
 
     virtualenv django_project_template
